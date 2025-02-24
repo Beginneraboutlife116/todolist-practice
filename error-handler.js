@@ -1,6 +1,5 @@
 const headers = {
 	'Content-Type': 'application/json',
-	'Allow-Control-Allow-Origin': 'http://localhost:3000',
 	'Allow-Control-Allow-Method': 'GET, OPTIONS, POST, DELETE, PATCH',
 	'Allow-Control-Allow-Headers': 'Content-Type, Authorization, Content-Length, X-Requested-With',
 };
